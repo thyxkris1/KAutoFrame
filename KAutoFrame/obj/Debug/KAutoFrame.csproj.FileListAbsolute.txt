@@ -1,6 +1,9 @@
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\bin\Debug\KAutoFrame.exe.config
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\bin\Debug\KAutoFrame.exe
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\bin\Debug\KAutoFrame.pdb
-C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\obj\Debug\KAutoFrame.csprojResolveAssemblyReference.cache
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\obj\Debug\KAutoFrame.exe
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\obj\Debug\KAutoFrame.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\bin\Debug\WebDriver.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\bin\Debug\WebDriver.Support.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\bin\Debug\WebDriver.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\bin\Debug\WebDriver.Support.xml
