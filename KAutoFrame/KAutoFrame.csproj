@@ -32,6 +32,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AFrame.Core">
+      <HintPath>..\packages\AFrame.Core.0.7.4.0\lib\net45\AFrame.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="AFrame.Web">
+      <HintPath>..\packages\AFrame.Web.0.7.4.0\lib\net45\AFrame.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="appium-dotnet-driver">
+      <HintPath>..\packages\Appium.WebDriver.1.5.1.1\lib\net40\appium-dotnet-driver.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Core">
+      <HintPath>..\packages\Castle.Core.3.3.3\lib\net45\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -48,12 +64,28 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base\Base.cs" />
+    <Compile Include="Base\BasePage.cs" />
+    <Compile Include="Base\BaseStep.cs" />
+    <Compile Include="Base\Browser.cs" />
+    <Compile Include="Base\DriverContext.cs" />
+    <Compile Include="Base\TestInitializeHook.cs" />
+    <Compile Include="Extensions\WebDriverExtensions.cs" />
+    <Compile Include="Extensions\WebElementExtensions.cs" />
+    <Compile Include="Helpers\ExcelHelpers.cs" />
+    <Compile Include="Helpers\HtmlTableHelpers.cs" />
+    <Compile Include="Helpers\LogHelpers.cs" />
+    <Compile Include="Helpers\ReportingHelpers.cs" />
+    <Compile Include="Helpers\WebServiceHelpers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Config\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -8,3 +8,13 @@ C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\WebDriver.Suppo
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\obj\Debug\SeleniumDemo.exe
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\obj\Debug\SeleniumDemo.pdb
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\obj\Debug\SeleniumDemo.csprojResolveAssemblyReference.cache
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\AFrame.Core.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\AFrame.Web.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\appium-dotnet-driver.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\Castle.Core.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\AFrame.Core.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\AFrame.Web.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\appium-dotnet-driver.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\Castle.Core.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\SeleniumDemo\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,6 @@
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\DemoTestMSTest.exe.config
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\DemoTestMSTest.exe
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\DemoTestMSTest.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\obj\Debug\DemoTestMSTest.csprojResolveAssemblyReference.cache
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\obj\Debug\DemoTestMSTest.exe
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\obj\Debug\DemoTestMSTest.pdb
