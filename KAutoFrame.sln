@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAutoFrame", "KAutoFrame\KA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumTest", "AppiumTest\AppiumTest.csproj", "{F7C79942-7351-4130-B778-1A1E5E988074}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTestMSTest", "DemoTestMSTest\DemoTestMSTest.csproj", "{7B63096C-45F9-4452-A0DB-2A49D5958CE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMSTest", "DemoMSTest\DemoMSTest.csproj", "{651C56BB-A2CE-467B-AC0B-09894375FE53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{F7C79942-7351-4130-B778-1A1E5E988074}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7C79942-7351-4130-B778-1A1E5E988074}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7C79942-7351-4130-B778-1A1E5E988074}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B63096C-45F9-4452-A0DB-2A49D5958CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B63096C-45F9-4452-A0DB-2A49D5958CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B63096C-45F9-4452-A0DB-2A49D5958CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B63096C-45F9-4452-A0DB-2A49D5958CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651C56BB-A2CE-467B-AC0B-09894375FE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651C56BB-A2CE-467B-AC0B-09894375FE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651C56BB-A2CE-467B-AC0B-09894375FE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651C56BB-A2CE-467B-AC0B-09894375FE53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

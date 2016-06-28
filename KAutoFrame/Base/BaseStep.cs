@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KAutoFrame.Base
 {
-    class BaseStep
+    public class BaseStep
     {
     }
 }

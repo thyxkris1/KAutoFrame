@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="537c9547-8079-4551-87bc-056f28624455" name="KRIS@KRIS-PC 2016-06-28 01:24:36" runUser="KRIS-PC\KRIS" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="0543bd92-c2a4-44b0-8b0e-e2c1cbed0ff0">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="KRIS_KRIS-PC 2016-06-28 01_24_36" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2016-06-28T01:24:36.2586427+08:00" queuing="2016-06-28T01:24:38.2737580+08:00" start="2016-06-28T01:24:38.7537854+08:00" finish="2016-06-28T01:24:40.7919020+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="demomstest.dll" id="d284ee75-f858-6e1a-5dae-26677ee7a8cd">
+      <Execution id="80a0c61a-8de4-4c16-84cb-85afb6ff0052" />
+      <TestMethod codeBase="C:/Users/KRIS/Documents/GitHub/KAutoFrame/DemoMSTest/bin/Debug/DemoMSTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DemoMSTest.UnitTest1, DemoMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d284ee75-f858-6e1a-5dae-26677ee7a8cd" executionId="80a0c61a-8de4-4c16-84cb-85afb6ff0052" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="80a0c61a-8de4-4c16-84cb-85afb6ff0052" testId="d284ee75-f858-6e1a-5dae-26677ee7a8cd" testName="TestMethod1" computerName="KRIS-PC" duration="00:00:00.3592359" startTime="2016-06-28T01:24:38.9767982+08:00" endTime="2016-06-28T01:24:40.6258925+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="80a0c61a-8de4-4c16-84cb-85afb6ff0052">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method DemoMSTest.UnitTest1.BeforeTest threw exception. OpenQA.Selenium.DriverServiceNotFoundException: OpenQA.Selenium.DriverServiceNotFoundException: The chromedriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html..</Message>
+          <StackTrace>    at OpenQA.Selenium.DriverService.FindDriverServiceExecutable(String executableName, Uri downloadUrl)
+   at OpenQA.Selenium.Chrome.ChromeDriverService.CreateDefaultService()
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeOptions options)
+   at KAutoFrame.Base.DriverContext.Start() in c:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\Base\DriverContext.cs:line 115
+   at KAutoFrame.Base.Base.BeforeTest() in c:\Users\KRIS\Documents\GitHub\KAutoFrame\KAutoFrame\Base\Base.cs:line 70
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

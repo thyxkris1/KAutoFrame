@@ -1,0 +1,14 @@
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\obj\Debug\DemoMSTest.csprojResolveAssemblyReference.cache
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\DemoMSTest.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\DemoMSTest.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\KAutoFrame.exe
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\NLog.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\WebDriver.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\WebDriver.Support.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\KAutoFrame.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\NLog.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\WebDriver.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\WebDriver.Support.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\obj\Debug\DemoMSTest.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\obj\Debug\DemoMSTest.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoMSTest\bin\Debug\DemoMSTest.dll.config

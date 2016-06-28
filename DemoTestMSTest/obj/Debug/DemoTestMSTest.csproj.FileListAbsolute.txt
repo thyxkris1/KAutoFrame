@@ -4,3 +4,11 @@ C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\DemoTestMSTes
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\obj\Debug\DemoTestMSTest.csprojResolveAssemblyReference.cache
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\obj\Debug\DemoTestMSTest.exe
 C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\obj\Debug\DemoTestMSTest.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\KAutoFrame.exe
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\WebDriver.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\WebDriver.Support.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\KAutoFrame.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\WebDriver.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\WebDriver.Support.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\NLog.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\DemoTestMSTest\bin\Debug\NLog.xml

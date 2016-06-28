@@ -1,0 +1,13 @@
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\obj\Debug\WebTestMSTest.csprojResolveAssemblyReference.cache
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\WebTestMSTest.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\WebTestMSTest.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\KAutoFrame.exe
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\WebDriver.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\WebDriver.Support.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\KAutoFrame.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\WebDriver.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\WebDriver.Support.xml
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\obj\Debug\WebTestMSTest.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\obj\Debug\WebTestMSTest.pdb
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\NLog.dll
+C:\Users\KRIS\Documents\GitHub\KAutoFrame\WebTestMSTest\bin\Debug\NLog.xml
